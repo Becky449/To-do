@@ -1,70 +1,55 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# To Do list:
+# To Do List Structure
 
 > Description the project.
+In this project we will be using webpack to create, edit, and delete tasks from a list of tasks created by the user, the main goals of this project are:
 
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used![](https://img.shields.io/badge/Microverse-blueviolet)
-
-
-## Screenshot of project
-
+- Use webpack to bundle JavaScript.
+- Learn how to use proper ES6 syntax.
+- Use ES6 modules to write modular JavaScript.
 
 ## Built With
 
-- HTML, JAVASCRIPT, CSS, and Webpack
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://doheera-kosi.github.io/todo-list-app/dist/)
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-## To get a local copy up and running follow these simple example steps.
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running clone: https://github.com/Becky449/To-do.git
 
 ### Prerequisites
 
-* A basic knowledge of html, css, and javascript
-
 ### Setup
-
-Download the zip file for repository and unzip it.
-You should have a code editor
-
-**please get your browser update. To get a local copy up and running follow these simple steps.**
-
-Run the command below from the terminal
-
-- git clone in your terminal
+Have git installed. (For version control)
+Have text editor installed. (Preferably VSCode)
+Have CSS,HTML & JS Linters installed and configured. For further information, visit this link to get better understanding on each linters used on this project.
 
 ### Install
 
-Install any code editor of you choice
-Install linters for Html, Css, and Javascript
+### Usage
 
 ### Run tests
 
-To run tests you can use the following commands
-For HTML you should run " npx hint . " on your terminal in root directory of project
-For Javascript you can run " npx eslint . on your terminal in the root directory of project
-
 ### Deployment
+- Create a new task
+- Delete task
+-  Add a new task
 
-N/A
 
 ## Authors
 
 👤 **Author1**
-## Evans Kupour
 
-- GitHub: [@githubhandle](https://github.com/doheera-kosi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evans-kupour-1879421a3/)
+- GitHub: [@Becky449](https://github.com/becky449)
 
 
 ## 🤝 Contributing
@@ -79,12 +64,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Thanks for Microverse for providing this platform.
+- Thanks for Microverse 
+- Thanks for me
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
